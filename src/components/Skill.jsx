@@ -53,6 +53,11 @@ const Skill = () => {
       label: "MVC",
       desc: "C# MVC",
     },
+      {
+      imgSrc: "public/images/Java.png",
+      label: "Java",
+      desc: "Basic Java known",
+    },
   ];
   return (
     <section className="section">
