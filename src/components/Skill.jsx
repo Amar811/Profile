@@ -54,7 +54,7 @@ const Skill = () => {
       desc: "C# MVC",
     },
       {
-      imgSrc: "public/images/Java.png",
+      imgSrc: "/images/Java.png",
       label: "Java",
       desc: "Basic Java known",
     },
